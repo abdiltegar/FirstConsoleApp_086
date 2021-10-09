@@ -10,6 +10,8 @@ namespace FirstConsoleApp_086
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Selamat Datang !");
+            Console.ReadKey();
         }
     }
 }
